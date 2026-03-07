@@ -1,5 +1,3 @@
-# koala-occurrence-map-australia
-Interactive Python map for visualizing koala occurrence records across Australia using Pandas and Folium.
 # Koala Occurrence Map Australia
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
@@ -115,10 +113,6 @@ You can adjust these settings inside `koala_map_generator.py`:
 - Sampling is enabled by default to keep the map responsive.
 - This repository is structured for GitHub upload and reuse.
 
-## License
-
-This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
-
 프로젝트 개요
 
 이 프로젝트는 호주 전역의 코알라 위치 데이터를 지도 위에 시각화하는 파이썬 프로젝트임.
@@ -182,10 +176,6 @@ outputs/koala_map.html
 작성자
 
 YIRANG JUNG
+## License
 
-## Copyright (c) 2026 Yirang Jung. All rights reserved.
-## Licensed under the Apache License, Version 2.0
-## 이 코드는 저작권자의 허가 없이 무단 전제 및 재배포를 금지합니다.
-## 저작권자: 네이버 검색 "정이랑 수의사"
-
-
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
